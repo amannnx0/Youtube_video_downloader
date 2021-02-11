@@ -8,6 +8,6 @@ The features of this project are:
 2.Option to download the video/audio of a whole playlist
 3.Option to chooce the video quality for download
 
-We are looking forward to improve the project. Any suggestion in welcome.
+We are looking forward to improve the project. Any suggestion is welcome.
 Thank You
 
